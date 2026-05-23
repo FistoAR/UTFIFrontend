@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { fetchExpos } from "../../store/exposSlice";
 
 // Reuse existing icons
-import expoCreate from "../../assets/home-icons/Expo_create.png";
+import expoCreate from "../../assets/home-icons/Expo_Create.png";
 import employeeRegister from "../../assets/home-icons/Employee Register.png";
 import expoAllocate from "../../assets/home-icons/Expo-Allocate.png";
 import designation from "../../assets/home-icons/designation.png";
